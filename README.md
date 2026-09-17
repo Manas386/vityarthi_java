@@ -96,8 +96,8 @@ JDK 17+) and ensure its `bin` directory is on your `PATH`.
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/{your-username}/{your-repo-name}.git
-cd {your-repo-name}
+git clone https://github.com/Manas386/vityarthi_java.git
+cd vityarthi_java
 ```
 
 ### 2. Compile
